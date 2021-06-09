@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Ian McCallister
+- 👀 I’m interested in Python Devolpment and Machine Learning
+- 🌱 I’m currently learning Java and Algorithmic Design
+- 💞️ I’m looking to collaborate on AWS Machine Learning Solutions and Serverless Applications
+- 📫 How to reach me ian.mccallister@outlook.com
